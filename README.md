@@ -1,11 +1,7 @@
   # GBSW-09
 캡스톤
-gantt
-    title A Gantt Diagram
-    dateFormat  YYYY-MM-DD
-    section Section
-    A task           :a1, 2014-01-01, 30d
-    Another task     :after a1  , 20d
-    section Another
-    Task in sec      :2014-01-12  , 12d
-    another task      : 24d
+
+
+![napkin-selection (4)](https://github.com/user-attachments/assets/f385a841-0083-45b5-971c-7619a61f5c7d)
+![napkin-selection (2)](https://github.com/user-attachments/assets/615aa278-000e-4be7-b634-df66a83dd8f4)
+![napkin-selection (3)](https://github.com/user-attachments/assets/b1d4ec33-ca03-41b5-bbf1-662d43276d6a)
