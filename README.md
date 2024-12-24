@@ -6,6 +6,9 @@
 
 ## 사용스택
 ![napkin-selection (2)](https://github.com/user-attachments/assets/615aa278-000e-4be7-b634-df66a83dd8f4)
-
+|이름|스택|
+|------|---|
+|박준호|백엔드|
+|김신우|프론트|
 ## 실시간 채팅 기능
 ![napkin-selection (3)](https://github.com/user-attachments/assets/b1d4ec33-ca03-41b5-bbf1-662d43276d6a)
